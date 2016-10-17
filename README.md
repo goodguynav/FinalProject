@@ -1,3 +1,6 @@
+design of the survey: (copy paste the codes inside design.txt to bootstrap.css node_modules>bootstrap>dist>css>bootstrap.css)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.  
