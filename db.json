@@ -1,21 +1,60 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
+      "age": "below 15",
+      "name": "HextechCraftMaster00",
+      "gender": "♂ Male",
+      "acquiregames": [
+        "I rent games from the Arcade Shops",
+        "I buy them online",
+        "I download them online"
       ],
-      "gender": "male",
+      "gamingplatform": "Personal Computer Gaming Rig",
+      "gamecategory": [
+        "Role Playing Game(RPG)"
+      ],
+      "thoughts": "This feel so good man",
+      "show": false,
+      "editage": "",
+      "editname": "",
+      "editgender": "",
+      "editacquiregames": [],
+      "editgamingplatform": "",
+      "editgamecategory": [],
+      "editthoughts": "",
       "id": 1
     },
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
+      "name": "F1tzThePunisher",
+      "gender": "♀ Female",
+      "gamingplatform": "Gaming Consoles",
+      "gamecategory": [
+        "Online(MMORPG)",
+        "Role Playing Game(RPG)",
+        "Simulator"
       ],
-      "gender": "male",
+      "thoughts": "The communities now is great.",
+      "id": 2
+    },
+    {
+      "name": "InternetWizard",
+      "gender": "♀ Female",
+      "gamingplatform": "Gaming Consoles",
+      "gamecategory": [
+        "Adventure"
+      ],
+      "thoughts": "Sea server is toxic.",
+      "id": 3
+    },
+    {
+      "name": "suprocs",
+      "gender": "♂ Male",
+      "gamingplatform": "Personal Computer Gaming Rig",
+      "gamecategory": [
+        "Role Playing Game(RPG)",
+        "Online(MMORPG)"
+      ],
+      "thoughts": "dota2!!!!",
       "id": 4
     }
   ]

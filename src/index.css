@@ -1,5 +1,6 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+body{
+  background-image: url(backgroundmain.png);
+  background-size: 100%;
+  background-attachment: fixed;
+  font-family: 'Shree Devanagari 714';
 }
